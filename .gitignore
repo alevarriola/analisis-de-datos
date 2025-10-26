@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos
+.env
+.venv/
+venv/
+.envrc
+
+# Datos y resultados pesados
+data/raw/
+data/interim/
+data/processed/
+reports/figures/
+reports/tables/
+
+# SO / IDE
+.DS_Store
+Thumbs.db
+.vscode/
